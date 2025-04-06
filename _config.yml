@@ -1,0 +1,6 @@
+sass:
+  style: comnpressed
+
+compress_html:
+  clippings: all
+  comments: ["<!--", "-->"]
