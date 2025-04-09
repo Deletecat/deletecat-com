@@ -4,3 +4,5 @@ sass:
 compress_html:
   clippings: all
   comments: ["<!--", "-->"]
+
+exclude: ['LICENSE','README.txt']
