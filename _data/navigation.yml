@@ -1,3 +1,5 @@
+- name: Posts
+  link: /posts/
 - name: Pastebin
   link: https://bin.deletecat.com
 - name: Home
