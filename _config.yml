@@ -8,12 +8,12 @@ compress_html:
 exclude: ['LICENSE','README.txt']
 
 defaults:
-  - scope:
+- scope:
     path: ""
     type: "posts"
   values:
     layout: "post"
-  - scope:
+- scope:
     path: ""
   values:
     layout: "default"
