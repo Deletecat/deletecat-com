@@ -6,3 +6,14 @@ compress_html:
   comments: ["<!--", "-->"]
 
 exclude: ['LICENSE','README.txt']
+
+defaults:
+  - scope:
+    path: ""
+    type: "posts"
+  values:
+    layout: "post"
+  - scope:
+    path: ""
+  values:
+    layout: "default"

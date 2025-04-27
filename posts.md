@@ -1,5 +1,5 @@
 ---
-layout: default
+title: Posts
 ---
 ## Post archive
 {% for post in site.posts %}
