@@ -1,3 +1,5 @@
+- name: RSS
+  link: /feed.xml
 - name: Posts
   link: /posts.html
 - name: Pastebin

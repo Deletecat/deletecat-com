@@ -1,6 +1,8 @@
 sass:
   style: compressed
 
+url: "https://deletecat.com"
+
 compress_html:
   clippings: all
   comments: ["<!--", "-->"]
@@ -17,3 +19,8 @@ defaults:
     path: ""
   values:
     layout: "default"
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
