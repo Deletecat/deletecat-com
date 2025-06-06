@@ -13,9 +13,9 @@ Most of my work is on [flashcarts.net](https://github.com/flashcarts) projects. 
 
 I mirror my projects across several locations. Here's a list:
 
-+ Self-hosted [soft-serve](https://github.com/charmbracelet/soft-serve): `ssh://git@git.deletecat.com:23231`
++ Self-hosted [soft-serve](https://github.com/charmbracelet/soft-serve): `ssh://git.deletecat.com:23231`
 	+ Run `ssh git.deletecat.com -p 23231` in your terminal to browse the repositories on this server.
-	+ Only the Git and SSH protocols have been configured, HTTP is not available.
+	+ Cloning is supported over Git, HTTPS and SSH.
 + GitHub: <https://github.com/Deletecat>
 + Codeberg: <https://codeberg.org/Deletecat>
 
