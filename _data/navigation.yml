@@ -2,7 +2,5 @@
   link: /feed.xml
 - name: Posts
   link: /posts.html
-- name: Pastebin
-  link: https://bin.deletecat.com
 - name: Home
   link: /
